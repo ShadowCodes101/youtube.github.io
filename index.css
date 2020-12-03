@@ -1,0 +1,73 @@
+body{
+    font-family: 'Major Mono Display', monospace;
+    background-color: cadetblue;
+}
+#bg_head{
+    height: auto;
+    max-width: 100%;
+}
+#main_pg_start{
+    text-align: center;
+    background-color: bisque;
+    font-size: 22px;
+}
+#main_pg{
+    background-color: wheat;
+    text-align: center;
+}
+#sh{
+    height: auto;
+    max-width: 25%;
+}
+#sh_button{
+    background-color: red;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#sh_button:hover{
+    background-color:palevioletred;
+    color: green;
+    border: greenyellow solid 3px;
+    border-radius: 5px;
+}
+#hm{
+    height: auto;
+    max-width: 25%;
+}
+#hm_button{
+    background-color: red;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#hm_button:hover{
+    background-color:palevioletred;
+    color: green;
+    border: greenyellow solid 3px;
+    border-radius: 5px;
+}
+#sc{
+    height: auto;
+    max-width: 25%;
+}
+#sc_button{
+    background-color: red;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#sc_button:hover{
+    background-color:palevioletred;
+    color: green;
+    border: greenyellow solid 3px;
+    border-radius: 5px;
+}
+#down_info{
+    font-size: 10px;
+    text-align: center;
+    color: wheat;
+}
